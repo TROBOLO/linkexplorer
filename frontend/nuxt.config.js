@@ -4,9 +4,9 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'LinkSanity',
+        title: 'LinkExplorer',
         htmlAttrs: {
-            lang: 'de'
+            lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
