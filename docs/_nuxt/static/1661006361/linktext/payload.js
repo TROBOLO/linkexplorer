@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/linktext", {data:[{}],fetch:{},mutations:void 0});
