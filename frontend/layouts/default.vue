@@ -2,14 +2,14 @@
   <div>
     <div>
       <b-navbar toggleable="lg" type="dark" variant="info">
-        <b-navbar-brand href="/">TROBOLO</b-navbar-brand>
+        <b-navbar-brand href="https://trobolo.github.io/linkexplorer/">TROBOLO</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
-            <b-nav-item href="/linktext">LinkText Search</b-nav-item>
-            <b-nav-item href="/urlsearch">URL Search</b-nav-item>
+            <b-nav-item href="https://trobolo.github.io/linkexplorer/linktext/">LinkText Search</b-nav-item>
+            <b-nav-item href="https://trobolo.github.io/linkexplorer/urlsearch/">URL Search</b-nav-item>
             <!-- <b-nav-item href="#" disabled>Disabled</b-nav-item> -->
           </b-navbar-nav>
 
