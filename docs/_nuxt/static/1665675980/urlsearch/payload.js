@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/urlsearch", {data:[{}],fetch:{},mutations:void 0});
